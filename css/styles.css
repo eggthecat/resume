@@ -1,0 +1,13 @@
+body {
+  font-family: sans-serif;
+}
+
+ul {
+  list-style: none;
+  float: inherit;
+}
+
+span {
+  color: pink;
+  font-size: 70px;
+}
